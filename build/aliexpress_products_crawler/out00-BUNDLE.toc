@@ -1,0 +1,3 @@
+([('aliexpress_products_crawler',
+   '/Users/ti/Working/Python/aliexpress_products_crawler/dist/aliexpress_products_crawler',
+   'EXECUTABLE')],)
